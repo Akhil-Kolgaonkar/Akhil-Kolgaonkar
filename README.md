@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil-Kolgaonkar
 - 👀 I’m interested in MySQL,Python,C,linux, R.
-- 🌱 I’m currently learning Python,MySQL.
+- 🌱 I’m currently learning Python,MySQL,Machine Learning-AI.
 - 💞️ I’m looking to collaborate on Machine Learning & AI Projects.
 - 📫 How to reach me https://www.linkedin.com/in/akhil-kolgaonkar/
 
